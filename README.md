@@ -1,5 +1,4 @@
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/shz-code/triptrip)
-# Triptrip - Travel Agency Solution
+
 
 Triptrip is fullstack website that handles management of various tour and travel packages. 
 - Users can **browse**, **search**, **buy** packages therefore generate **pdf reports**, write **reviews** and everything is done in realtime.
@@ -92,14 +91,7 @@ Code editor -
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=green)
 The relational database management system used
 
-# Authors
-**Shahidul Alam** - [@shz-code](https://github.com/shz-code)
+# Author
+Fardin Zaman
 
-**Akibul Hasan** - [@MdAkibulHasan](https://github.com/MdAkibulHasan)
 
-# License
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-This project is licensed under the MIT License - see the LICENSE file for details
-# Acknowledgments
-- Design Inspired
